@@ -1,8 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="asdf" type="PLAIN_TEXT" />
+      <mapping pattern="tinker" type="PLAIN_TEXT" />
       <mapping pattern="me" type="PLAIN_TEXT" />
+      <mapping pattern="asdf" type="PLAIN_TEXT" />
       <mapping ext="apib" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
